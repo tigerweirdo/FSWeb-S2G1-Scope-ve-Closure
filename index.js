@@ -87,7 +87,7 @@ Aşağıdaki macSonucu() fonksiyonununda aşağıdakileri yapınız:
   "KonukTakim": 80
 }
 */ 
-
+ 
 const tablo_skor = {
   "EvSahibi": 0,
   "KonukTakim": 0
